@@ -7,7 +7,7 @@ Atuo e Estudo na area de Data Sciencie e Data Analyst, aqui você encontra proje
 # Acidentes de trabalho no Brasil (2016 - 2025)
 Analisei sobre os acidentes e óbitos dos principais setores economicos dentre as 10 principais UFs 
 
-# Tecnologias
+# 💻 Tecnologias
 * Python
 * Pdfplumber
 * Pandas
