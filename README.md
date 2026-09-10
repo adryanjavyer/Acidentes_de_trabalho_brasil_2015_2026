@@ -5,7 +5,7 @@ Repositorio com projetos de Data Science (Ciência de Dados) e Data Analyst (Ana
 Atuo e Estudo na area de Data Sciencie e Data Analyst, aqui você encontra projetos de gerenciamento de risco, prevenção e acompanhamento de processos.
 
 # 📊 Acidentes de trabalho no Brasil (2016 - 2025)
-Analisei sobre os acidentes e óbitos dos principais setores economicos dentre as 10 principais UFs 
+Efetuei uma analise sobre os acidentes e óbitos dos principais setores economicos dentre as 10 principais UFs no intervalo do ano de 2016-2025 para fins de estudos e desenvolvimento de habilidades analíticas.  
 
 # 🎯 Objetivos 
 Analisar os acidentes de trabalho registrados no Brasil e responder perguntas como:
