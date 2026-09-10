@@ -12,7 +12,7 @@ Analisei sobre os acidentes e óbitos dos principais setores economicos dentre a
 * Pdfplumber
 * Pandas
 * Excel
-* Git
+
 <img 
     align="left" 
     alt="Git"
@@ -21,7 +21,7 @@ Analisei sobre os acidentes e óbitos dos principais setores economicos dentre a
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-* 
+
 * PowerBI
 # Contato
 * E-mail: adryanjavyer@gmail.com
